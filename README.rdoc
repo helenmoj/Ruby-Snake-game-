@@ -1,0 +1,5 @@
+Using the Gosu gem I followed an online tutorial to produce the Snake game and relieved the 1990s :)
+
+to run:
+
+ruby game.rb 
